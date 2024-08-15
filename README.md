@@ -38,4 +38,4 @@ https://openbuild.xyz/learn/challenges/2040759955
 
 ## WeChat Group
 
-![image](https://github.com/user-attachments/assets/64faff56-f033-4a46-955e-ed9f5ad0714b)
+<img width="300" height="300" src="https://github.com/user-attachments/assets/64faff56-f033-4a46-955e-ed9f5ad0714b" />
